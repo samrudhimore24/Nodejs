@@ -2,3 +2,6 @@ npn --version
 npm init -y
 npm install express --save
 npm start
+
+
+start:"node index.js"
